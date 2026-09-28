@@ -12,7 +12,7 @@ circuit with schematic, PCB layout, and fabrication outputs.
 
 | File | Description |
 |---|---|
-| `Simple_LDO_Converter.PrjPcb` | Altium project |
+| `NE555_Timer_Board.PrjPcb` | Altium project (renamed from `Simple_LDO_Converter.PrjPcb` — same typo as the folder) |
 | `Schematic.SchDoc` | Schematic (555 timer circuit) |
 | `PCB.PcbDoc` | PCB layout |
 | `Gerbers.Cam` | CAM / Gerber job |

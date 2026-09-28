@@ -9,6 +9,7 @@ Project Outputs*/
 *.tmp
 *.bak
 *.err
+*.PrjPcbStructure
 
 # OS / editor noise
 Thumbs.db
