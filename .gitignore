@@ -1,0 +1,18 @@
+# Altium-generated clutter — never versioned
+History/
+__Previews/
+Project Logs*/
+Project Outputs*/
+*.zip
+
+# Altium temp / backup artefacts
+*.tmp
+*.bak
+*.err
+
+# OS / editor noise
+Thumbs.db
+desktop.ini
+*.swp
+*~
+.vscode/
